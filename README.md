@@ -17,7 +17,7 @@ python app.py
 3. Open browser at:
 http://127.0.0.1:8050
 
-## Algorithms Implemented
+## Algorithms Implemented.
 - **Round Robin** — Distributes tasks cyclically across processors
 - **Least Loaded** — Always assigns to the least busy processor
 - **Work Stealing** — Idle processors steal tasks from overloaded ones
