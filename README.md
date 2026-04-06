@@ -1,4 +1,4 @@
-# Dynamic Load Balancing in Multiprocessor Systems
+# Dynamic Load Balancing in Multiprocessor System
 
 A Python simulation of dynamic load balancing across multiple processors,
 with a real-time Plotly Dash dashboard.
